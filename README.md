@@ -1,6 +1,6 @@
 # kep
 
-Kep is a commend-line not taking and documenting tool.
+Kep is a commend-line note taking and documenting tool.
 
 ## Goals
 
